@@ -1,0 +1,16 @@
+section {
+  background-color: lightpink;
+
+}
+h1 {
+  color: darkgreen;
+}
+h3 {
+  color: darkolivegreen;
+}
+.h1-text {
+  color: lightslategray;
+}
+.h3-text {
+  color: rgb(8, 88, 88);
+}
